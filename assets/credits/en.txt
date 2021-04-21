@@ -1,0 +1,8 @@
+<p><b><h6>Like Clicker</h6></b></p>
+<p><span>Directed by TechHero</span><br>
+<span>Developed by TechHero</span><br>
+<span>Programmed by TechHero</span><br>
+<span>Idealized by TechHero</span><br>
+<span>Game design by TechHero</span><br>
+<span>Game balance by TechHero</span><br>
+</p><p>All by TechHero?</p>
