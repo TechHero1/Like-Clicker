@@ -1,8 +1,0 @@
-<p><b><h6>Like Clicker</h6></b></p>
-<p><span>Dirigido por TechHero</span><br>
-<span>Desenvolvido por TechHero</span><br>
-<span>Programação por TechHero</span><br>
-<span>Idealizado por TechHero</span><br>
-<span>Design de jogo por TechHero</span><br>
-<span>Balanceamento de jogo por TechHero</span><br>
-</p><p>Tudo por TechHero?</p>
